@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Shenzhen, China
     date_start: '2021-11-01'
-    date_end: '2022-3-1'
+    date_end: ''
     description: |2-
         Responsibilities include:
 
