@@ -57,7 +57,7 @@ experience:
         Participant of RoboMaster High-School Students Vacation Camp, intern only in summer and winter vacation.
 
   - title: Individual developer (maker)
-    company: DJI Technology Co., Ltd.
+    company: High & Middle schools
     company_url: ''
     company_logo: ''
     location: Chaozhou, China
