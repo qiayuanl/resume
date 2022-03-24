@@ -1,12 +1,12 @@
 ---
 title: Qiayuan Liao
 role: Rearch Intern
-bio: My research interests include Legged Robots, Optimal Control and Mechanical Design.
+bio: My research interests include Legged Robots, Optimal Control and Mechanical
+  Design.
 interests:
   - Legged Robots
   - Optimal Control
   - Mechanical Design
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +21,7 @@ education:
   courses:
     - course: BSc in Electromechanical Engineering
       institution: Guangdong University of Technology
-      year: 2028
+      year: 2023
 email: liaoqiayuan@gmail.com
 superuser: true
 highlight_name: true
