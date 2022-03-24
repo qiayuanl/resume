@@ -67,6 +67,8 @@ experience:
     I have been interested in mechanics and electronics since I was a child, which led me to complete the following projects by myself
       * Reproduced several open-source FDM 3D printers (kossel) in middle school.
       * Developed a novel desktop Selective-Laser-Sintering 3D printer in high school.
+
+
 design:
   columns: '2'
 ---
