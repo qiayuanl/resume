@@ -69,7 +69,6 @@ experience:
           * Reproduced several open-source FDM 3D printers (kossel) in middle school.
           * Developed a novel desktop Selective-Laser-Sintering 3D printer in high school.
 
-
 design:
   columns: '2'
 ---
