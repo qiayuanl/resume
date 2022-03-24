@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Shenzhen, China
     date_start: '2021-11-01'
-    date_end: ''
+    date_end: '2022-03'
     description: |2-
         Responsibilities include:
 
@@ -54,7 +54,7 @@ experience:
     date_start: '2018-01-01'
     date_end: '2019-08-01'
     description: |2-
-        Participant of RoboMaster High-School Students Vacation Camp, intern only in summer and winter Vacation.
+        Participant of RoboMaster High-School Students Vacation Camp, intern only in summer and winter vacation.
 
   - title: Individual developer (maker)
     company: DJI Technology Co., Ltd.
@@ -64,7 +64,8 @@ experience:
     date_start: '2015-01-01'
     date_end: '2018-08-01'
     description: |2-
-        I have been interested in mechanics and electronics since I was a child, which led me to complete the following projects by myself
+        I have been interested in mechanics and electronics since I was a child, which led me to complete the following projects by myself:
+
           * Reproduced several open-source FDM 3D printers (kossel) in middle school.
           * Developed a novel desktop Selective-Laser-Sintering 3D printer in high school.
 
