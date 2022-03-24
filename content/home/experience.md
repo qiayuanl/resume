@@ -63,7 +63,7 @@ experience:
     company: DJI Technology Co., Ltd.
     company_url: ''
     company_logo: ''
-    location: Shenzhen, China
+    location: Chaozhou, China
     date_start: '2015-1-1'
     date_end: '2018-8-1'
     description: |2-
