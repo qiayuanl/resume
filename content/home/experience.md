@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 title: Experience
 subtitle:
@@ -22,28 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: Researcher Intern
+    company: SUSTech CLEAR Lab (Prof. Wei Zhang)
+    company_url: 'https://www.wzhanglab.site/'
+    company_logo: ''
     location: California
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
+        * Development of hardware and simulation interface of quadruped robot (Unitree's Aliengo) based on ros-control, and Cheetah-Software.
+        * Working on control the quadruped robot bumps the ball in the air to the desired position using trajectory optimization and MPC.
+        * Research results submitted to IROS2022 (under review).
 
 design:
   columns: '2'
