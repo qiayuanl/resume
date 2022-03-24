@@ -42,7 +42,7 @@ experience:
     company_logo: ''
     location: Guanzhou, China
     date_start: '2019-10-01'
-    date_end: '2021-10-1'
+    date_end: '2020-12-31'
     description: |2-
         Found and lead a team of up to 45 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.
 
