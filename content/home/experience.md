@@ -36,7 +36,6 @@ experience:
         * Working on control the quadruped robot bumps the ball in the air to the desired position using trajectory optimization and MPC.
         * Research results submitted to IROS2022 (under review).
 
-experience:
   - title: Captain & Founder
     company: GDUT DynamicX Robotic Team
     company_url: ''
@@ -47,7 +46,6 @@ experience:
     description: |2-
         Found and lead a team of up to 45 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.
 
-experience:
   - title: Emebbed Developer Intern
     company: DJI Technology Co., Ltd.
     company_url: ''
@@ -58,7 +56,6 @@ experience:
     description: |2-
         Participant of RoboMaster High-School Students Vacation Camp, intern only in summer and winter Vacation.
 
-experience:
   - title: Individual developer (maker)
     company: DJI Technology Co., Ltd.
     company_url: ''
