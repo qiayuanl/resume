@@ -1,12 +1,12 @@
 ---
 title: Qiayuan Liao
 role: Rearch Intern
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Legged Robots, Optimal Control and Mechanical Design.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Legged Robots
+  - Optimal Control
+  - Mechanical Design
+
 social:
   - icon: envelope
     icon_pack: fas
