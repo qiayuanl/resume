@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Mechanic
-    icon_pack: fas
+    icon_pack: fab
     icon: gears
     description: Fusion360, Solidwork, CNC, 3D Print
   - name: Control
