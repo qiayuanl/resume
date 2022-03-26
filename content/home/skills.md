@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Mechanic
-    icon_pack: fas
-    icon: screwdriver-wrench
-    description: Fusion360, Solidwork, CNC, 3D Print
   - name: Control
     icon_pack: fas
     icon: microchip
     description: TO, MPC, TVLQR, PID, C++, Python, ROS, Gazebo
+  - name: Mechanic
+    icon_pack: fas
+    icon: gears
+    description: Fusion360, Solidwork, CNC, 3D Print
   - name: Tools
     icon_pack: fas
     icon: toolbox
