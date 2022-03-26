@@ -27,11 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+  - name: RoboMaster
+    tag: RoboMaster
+  - name: Legged Robots
+    tag: Legged Robots
+  - name: Optimal Control
+    tag: Optimal Control
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
