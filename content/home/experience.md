@@ -69,5 +69,5 @@ experience:
         * Developed a novel desktop Selective-Laser-Sintering 3D printer in high school.
 
 design:
-  columns: '2'
+  columns: '1'
 ---
