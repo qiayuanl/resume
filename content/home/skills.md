@@ -46,4 +46,8 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
