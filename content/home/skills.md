@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Control
-    icon_pack: fas
-    icon: microchip
-    description: TO, MPC, TVLQR, PID, C++, Python, ROS, Gazebo
   - name: Mechanic
     icon_pack: fas
     icon: gears
     description: Fusion360, Solidwork, CNC, 3D Print
+  - name: Control
+    icon_pack: fas
+    icon: gears
+    description: TO, MPC, TVLQR, PID, ROS, Gazebo
   - name: Tools
     icon_pack: fas
     icon: toolbox
-    description:  Git, LaTeX, OpenCV, Github Action
+    description: C++, Python, Git, LaTeX, OpenCV, Github Action
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
