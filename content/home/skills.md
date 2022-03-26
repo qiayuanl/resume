@@ -18,11 +18,11 @@ subtitle:
 feature:
   - name: Mechanic
     icon_pack: fas
-    icon: gears
+    icon: wrech
     description: Fusion360, Solidwork, CNC, 3D Print
   - name: Control
     icon_pack: fas
-    icon: gears
+    icon: microchip
     description: TO, MPC, TVLQR, PID, ROS, Gazebo
   - name: Tools
     icon_pack: fas
