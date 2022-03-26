@@ -18,7 +18,7 @@ subtitle:
 feature:
   - name: Mechanic
     icon_pack: fas
-    icon: wrech
+    icon: wrench
     description: Fusion360, Solidwork, CNC, 3D Print
   - name: Control
     icon_pack: fas
