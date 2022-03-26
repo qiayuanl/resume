@@ -17,21 +17,18 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Mechanic
-    icon_pack: fab
-    icon: gears
+    icon_pack: fas
+    icon: screwdriver-wrench
     description: Fusion360, Solidwork, CNC, 3D Print
   - name: Control
     icon_pack: fas
     icon: microchip
-    description: TO, MPC, TVLQR, LQR, PID
-  - name: Framework & Tools
+    description: TO, MPC, TVLQR, PID, C++, Python, ROS, Gazebo
+  - name: Tools
     icon_pack: fas
     icon: toolbox
-    description: ROS, Gazebo, OpenCV, Git
-  - name: Programming
-    icon_pack: fas
-    icon: laptop-code
-    description: C++, Python, LaTeX，MATLAB
+    description:  Git, LaTeX, OpenCV, Github Action
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
