@@ -2,7 +2,8 @@
 slides: example
 url_pdf: ""
 date: 2022-03-27T16:51:06.226Z
-summary: An example of using the in-built project page.
+summary: robot Hardware/simulation interface base on ros-controls for developing
+  RoboMaster robots and high-performance robots.
 url_video: ""
 title: ros-control
 featured: false
@@ -13,7 +14,7 @@ url_slides: ""
 links:
   - icon: github
     icon_pack: fab
-    name: ""
+    name: Source
     url: https://github.com/rm-controls
 image:
   caption: ""
