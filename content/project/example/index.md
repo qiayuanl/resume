@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: SMART
-  filename: https://rm-control-docs.netlify.app/en/assets/images/gazebo-4220eb5bc8d069a9cc72dbce752b9928.jpg
+  filename: gazebo.jpg
   preview_only: false
 url_code: ""
 ---
