@@ -2,7 +2,8 @@
 slides: rm-controls
 url_pdf: ""
 date: 2022-03-27T16:51:06.226Z
-summary: Hardware/simulation interface based on ros-controls for developing RoboMaster robots and high-performance robots.
+summary: Hardware/simulation interface based on ros-controls for developing
+  RoboMaster robots and high-performance robots.
 url_video: ""
 title: rm-controls
 featured: false
@@ -16,7 +17,7 @@ links:
     name: Source
     url: https://github.com/rm-controls
 image:
-  caption: ""
+  caption: rm-controls
   focal_point: SMART
   filename: gazebo.jpg
   preview_only: false
