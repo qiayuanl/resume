@@ -1,33 +1,26 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+date: 2022-03-27T16:51:06.226Z
+summary: An example of using the in-built project page.
+url_video: ""
+title: ros-control
+featured: false
+tags:
+  - RoboMaster
+external_link: ""
+url_slides: ""
+links:
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/rm-controls
+image:
+  caption: ""
+  focal_point: Smart
+  filename: https://rm-control-docs.netlify.app/en/assets/images/gazebo-4220eb5bc8d069a9cc72dbce752b9928.jpg
+  preview_only: false
+url_code: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
