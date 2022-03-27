@@ -17,7 +17,7 @@ links:
     name: Source
     url: https://github.com/rm-controls
 image:
-  caption: rm-controls
+  caption: ""
   focal_point: SMART
   filename: ""
   preview_only: false
