@@ -20,7 +20,7 @@ image:
   caption: rm-controls
   focal_point: SMART
   filename: gazebo.jpg
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 
