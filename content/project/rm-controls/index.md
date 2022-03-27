@@ -1,9 +1,8 @@
 ---
-slides: example
+slides: rm-controls
 url_pdf: ""
 date: 2022-03-27T16:51:06.226Z
-summary: Hardware/simulation interface based on ros-controls for developing
-  RoboMaster robots and high-performance robots.
+summary: Hardware/simulation interface based on ros-controls for developing RoboMaster robots and high-performance robots.
 url_video: ""
 title: rm-controls
 featured: false
