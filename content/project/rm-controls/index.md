@@ -8,5 +8,5 @@ featured: false
 image:
   filename: featured_hud2befc35335f83a2f17b479e81090e06_4244700_720x0_resize_q90_lanczos.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
