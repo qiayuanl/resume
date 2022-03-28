@@ -5,7 +5,7 @@ summary: Mechanical gravity compensation for pitch axis of gimbal
 draft: false
 featured: false
 tags:
-  - RoboMaster
+  - robomaster
 links:
   - url: https://github.com/qiayuanliao/cheetah_ros
     name: Source
