@@ -7,6 +7,6 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: TOP
+  focal_point: Top
   preview_only: true
 ---
