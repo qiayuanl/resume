@@ -6,7 +6,7 @@ summary: Hardware/simulation interface based on ros-controls for developing
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: gazebo.png
   focal_point: Smart
   preview_only: true
 ---
