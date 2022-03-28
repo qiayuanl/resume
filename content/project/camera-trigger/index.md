@@ -1,8 +1,8 @@
 ---
 title: IMU-Camera Hard Trigger
 date: 2022-03-28T16:24:03.258Z
-summary: STM32 Firmware for transferring BMI088's data to CAN and triggering the
-  camera at the same time. ROS Driver for Galaxy Camera and timestamp syncing.
+summary: Transfer BMI088's data to CAN and trigger the camera at the same time.
+  Receive the image and sync the timestamp.
 featured: true
 authors:
   - Providing whole proposal
