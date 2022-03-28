@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: RoboMaster
-    tag: RoboMaster
+    tag: robomaster
   - name: Legged Robots
-    tag: Legged Robots
+    tag: legged_robots
   - name: Optimal Control
-    tag: Optimal Control
+    tag: optimal_control
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
