@@ -5,9 +5,7 @@ summary: Transfer BMI088's data to CAN and trigger the camera at the same time.
   Receive the image and sync the timestamp.
 featured: true
 authors:
-  - Providing whole proposal
-  - Early coding
-  - Supervision
+  - Providing whole proposal; Early coding; Supervision
 tags:
   - robomaster
 links:
