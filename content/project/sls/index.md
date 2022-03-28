@@ -7,6 +7,6 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: TOP
   preview_only: true
 ---
