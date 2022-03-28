@@ -8,5 +8,5 @@ featured: false
 image:
   filename: deployed_robots-80b6d1a244226524149437c87e1e6f13.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
