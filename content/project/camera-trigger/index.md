@@ -5,7 +5,8 @@ summary: STM32 Firmware for transferring BMI088's data to CAN and triggering the
   camera at the same time. ROS Driver for Galaxy Camera and timestamp syncing.
 featured: true
 authors:
-  - Providing proposal
+  - Providing whole proposal
+  - Early coding
   - Supervision
 tags:
   - robomaster
