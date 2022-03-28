@@ -5,6 +5,6 @@ summary: Hardware/simulation interface based on ros-controls for developing
   RoboMaster robots and high-performance robots.
 image:
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   filename: featured.png
 ---
