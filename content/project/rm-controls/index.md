@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: SMART
-  filename: ""
+  filename: gazebo.jpg
   preview_only: false
 url_code: ""
 ---
