@@ -6,7 +6,7 @@ summary: Hardware/simulation interface based on ros-controls for developing
 draft: false
 featured: false
 image:
-  filename: gazebo.jpg
+  filename: https://zeyuren.netlify.app/project/gia-project/featured_hud2befc35335f83a2f17b479e81090e06_4244700_720x0_resize_q90_lanczos.jpg
   focal_point: Smart
   preview_only: false
 ---
