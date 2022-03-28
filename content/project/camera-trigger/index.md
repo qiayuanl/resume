@@ -21,6 +21,6 @@ links:
     name: Camera ROS Driver
 image:
   focal_point: Center
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 ---
