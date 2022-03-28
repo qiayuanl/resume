@@ -18,7 +18,7 @@ links:
   - url: https://github.com/qiayuanliao/galaxy_camera
     icon_pack: fab
     icon: github
-    name: Camera ROS Driver
+    name: Camera Driver
 image:
   focal_point: Center
   preview_only: false
