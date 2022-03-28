@@ -1,8 +1,8 @@
 ---
 title: cheetah_ros
 date: 2022-03-28T08:48:32.890Z
-summary: ros-control interface and some basic controllers for the quadruped
-  robot based on pinnochio and Cheetah-Software.
+summary: Hardware/simulation interface and some basic controllers for the
+  quadruped robot based on pinnochio and Cheetah-Software.
 draft: false
 featured: false
 tags:
