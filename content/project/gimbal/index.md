@@ -1,5 +1,5 @@
 ---
-title: Gravity compensation for gimbal
+title: Gravity compensation
 date: 2022-03-28T09:24:29.731Z
 summary: Mechanical gravity compensation for pitch axis of gimbal
 draft: false
