@@ -18,7 +18,7 @@ links:
     url: https://github.com/rm-controls
 image:
   caption: ""
-  focal_point: SMART
+  focal_point: CENTER
   filename: gazebo.jpg
   preview_only: false
 url_code: ""
