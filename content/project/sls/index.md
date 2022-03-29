@@ -31,7 +31,7 @@ Although the project looks pretty naive now, the desktop SLS printer with the la
 
 The Laser galvanometer works the same as the voltmeter, the volt determines the angle of mirrors that reflect the laser. We use serial to communicate with the computer and receive the GCode(GCode is the most widely used numerical control programming language), process the GCode and plan, calculate the mirrors angle for each movement, use SPI to send the volt data to the DAC module, output the volt and make galvanometer turn to the corresponding angle.
 
-{{< gallery album="sls/mg" >}}
+<center>{{< gallery album="sls/mg" >}}</center>
 
 # 2D Sintering Testing Platform
 A 2d testing platform shown below was made for single layer sintering.
