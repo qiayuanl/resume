@@ -58,4 +58,12 @@ A dry run test video is shown below.
 {{< youtube qisKUQljb_s >}}
 
 # Print result
-I tested 
+I added toner in nylon to improve the ability to absorb laser energy, then printed complex geometric mechanisms, 3DBenchy, small chains to test the performance of the printer.
+
+<center>{{< gallery album="sls/result" >}}</center>
+
+A printing process and small chain videos are shown below.
+
+{{< youtube Q6LMEkzwmUA >}}
+
+The printer can print complex structures without supports, but the printing of large scale parts is differential due to preheat the powder uniformly before sintering is very difficult.
