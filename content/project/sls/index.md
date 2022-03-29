@@ -5,6 +5,7 @@ summary: A desktop open source Selective‑Laser‑Sintering 3D printer using mi
   galvanometer.
 draft: false
 featured: true
+show_date: false
 authors:
   - Independently
 links:
