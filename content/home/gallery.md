@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 50
 
 title: Robots designed by my team
 subtitle: I supervise and review all idea and drawing; In charge of some important design and calculations.
