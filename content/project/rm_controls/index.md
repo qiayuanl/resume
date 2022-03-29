@@ -4,6 +4,8 @@ date: 2022-02-01T09:53:08.018Z
 summary: Hardware/simulation interface based on ros-controls for developing
   RoboMaster robots and high-performance robots.
 featured: true
+authors:
+  - 90% Commits by me
 tags:
   - robomaster
 links:
