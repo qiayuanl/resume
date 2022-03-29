@@ -4,6 +4,7 @@ date: 2019-11-07T06:49:06.134Z
 summary: Real-time Linux kernel for UP Board, which usually used in MIT Cheetah Mini
 draft: false
 featured: false
+show_date: false
 tags:
   - legged_robots
 external_link: https://github.com/qiayuanliao/Ubuntu-RT-UP-Board

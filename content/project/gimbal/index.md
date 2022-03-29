@@ -4,6 +4,7 @@ date: 2021-04-01T09:24:29.731Z
 summary: Mechanical gravity compensation for pitch axis of gimbal
 draft: false
 featured: false
+show_date: false
 tags:
   - robomaster
 links:
