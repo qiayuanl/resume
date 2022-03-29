@@ -5,11 +5,13 @@ summary: Hardware/simulation interface and some basic controllers for the
   quadruped robot based on pinnochio and Cheetah-Software.
 draft: false
 featured: false
-show_date: false
+authors:
+  - All code
 tags:
   - legged_robots
   - optimal_control
 external_link: https://github.com/qiayuanliao/cheetah_ros
+show_date: false
 links:
   - url: https://github.com/qiayuanliao/cheetah_ros
     name: Source
