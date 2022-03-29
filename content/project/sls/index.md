@@ -5,6 +5,8 @@ summary: A desktop open source Selective‑Laser‑Sintering 3D printer using mi
   galvanometer.
 draft: false
 featured: false
+authors:
+  - Independently
 links:
   - url: https://github.com/qiayuanliao/OpenMGSLS
     name: Source
