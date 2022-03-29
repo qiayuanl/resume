@@ -1,6 +1,6 @@
 ---
 title: rm-controls
-date: 2022-03-28T09:53:08.018Z
+date: 2021-11-01T09:53:08.018Z
 summary: Hardware/simulation interface based on ros-controls for developing
   RoboMaster robots and high-performance robots.
 featured: true
