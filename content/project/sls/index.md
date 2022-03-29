@@ -5,9 +5,9 @@ summary: A desktop open source Selective‑Laser‑Sintering 3D printer using mi
   galvanometer.
 draft: false
 featured: true
-show_date: false
 authors:
   - Independently
+show_date: false
 links:
   - url: https://github.com/qiayuanliao/OpenMGSLS
     name: Source
@@ -19,9 +19,10 @@ image:
   preview_only: true
 ---
 # Motivation
+
 I used to be a 3D printing enthusiast; I reproduced some open-source FDM printers like kossel in middle school and realized the limitations of FDM 3D printers. I learned that SLS is a high-precision 3D printing method and can even print metal. 
 
-![Selective laser sintering process](sls0.jpg)
+![](sls0.jpg "Selective laser sintering process")
 
 So I spent about one year building a desktop SLS 3d printer all by myself when I was in high school.
-Although the project looks pretty naive now, the desktop SLS printer with the galvanometer had never been presented at that time to the authors’ best knowledge.
+Although the project looks pretty naive now, the desktop SLS printer with the galvanometer had never been presented to the authors’ best knowledge at that time.
