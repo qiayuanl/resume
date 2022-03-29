@@ -24,7 +24,7 @@ I used to be a 3D printing enthusiast; I reproduced some open-source FDM printer
 
 ![](sls0.jpg "Selective laser sintering process")
 
-So I spent about one year building a desktop SLS 3d printer all by myself when I was in high school.
+So I spent about one year (2017~2018) building a desktop SLS 3d printer all by myself when I was in high school.
 Although the project looks pretty naive now, the desktop SLS printer with the laser galvanometer had never been presented to the authors’ best knowledge at that time.
 
 # Parts
@@ -37,7 +37,7 @@ The Laser galvanometer works the same as the voltmeter; the volt determines the 
 
 ## 2D Sintering Testing Platform
 
-A 2d testing platform was made for single layer sintering, the platform and a nylon sintering test result are shown below.
+A 2d testing platform with a stage performance-grade galvanometer from AliExpress was made for single layer sintering. The platform and a nylon sintering test result are shown below.
 
 <center>{{< gallery album="sls/test2d" >}}</center>
 
@@ -53,6 +53,9 @@ Combining Laser Galvanometer and Powder Delivery System, we got an SLS 3D printe
 
 ![](printer.jpg "SLS 3D Printer I build")
 
-A dry run test is shown below.
+A dry run test video is shown below.
 
 {{< youtube qisKUQljb_s >}}
+
+# Print result
+I tested 
