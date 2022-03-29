@@ -1,6 +1,6 @@
 ---
 title: SLS 3D printer
-date: 2022-03-28T08:58:25.233Z
+date: 2018-05-04T08:58:25.233Z
 summary: A desktop open source Selective‑Laser‑Sintering 3D printer using mirror
   galvanometer.
 draft: false
