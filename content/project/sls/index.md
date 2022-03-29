@@ -34,7 +34,7 @@ The Laser galvanometer works the same as the voltmeter, the volt determines the 
 {{< gallery album="sls/mg" >}}
 
 # 2D Sintering Testing Platform
-A 2d testing platform show bleow was made for single layer sintering.
+A 2d testing platform shown below was made for single layer sintering.
 
 
-{{< gallery album="sls/test2d" >}}
+<center>{{< gallery album="sls/test2d" >}}</center>
