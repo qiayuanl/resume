@@ -40,4 +40,6 @@ A 2d testing platform shown below was made for single layer sintering.
 <center>{{< gallery album="sls/test2d" >}}</center>
 
 # Powder Delivery System
-The Powder Delivery System driven by three stepper motors spread the powder evenly over the previous layer, two pistons store the printed part and the powder waiting to be used respectively.
+The Powder Delivery System shown below driven by three stepper motors spread the powder evenly over the previous layer, two pistons store the printed part and the powder waiting to be used respectively.
+
+<center>{{< gallery album="sls/powder" >}}</center>
