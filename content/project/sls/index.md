@@ -66,4 +66,7 @@ A printing process and small chain videos are shown below.
 
 {{< youtube Q6LMEkzwmUA >}}
 
-The printer can print complex structures without supports, but the printing of large scale parts is differential due to preheat the powder uniformly before sintering is very difficult.
+{{< youtube _YU2mZR_pDs >}}
+
+
+The printer can print complex structures without support, but the printing of large-scale parts is differential due to preheating the powder uniformly before sintering is very difficult.
