@@ -5,7 +5,7 @@ summary: Mechanical gravity compensation for pitch axis of gimbal
 draft: false
 featured: false
 authors:
-  - Whole design idea and calculations
+  - Design idea and calculations
 show_date: false
 tags:
   - robomaster
