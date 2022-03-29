@@ -51,4 +51,8 @@ The Powder Delivery System shown below, driven by three stepper motors, spreads 
 
 Combining Laser Galvanometer and Powder Delivery System, we got an SLS 3D printer.
 
-![](printer.jpg)
+![](printer.jpg "SLS 3D Printer I build")
+
+A dry run test is shown below.
+
+{{< youtube qisKUQljb_s >}}
