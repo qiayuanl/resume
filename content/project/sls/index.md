@@ -62,4 +62,6 @@ I added toner in nylon to improve the ability to absorb laser energy, then print
 
 <center>{{< gallery album="sls/result" >}}</center>
 
+A printing process and small chain videos are shown below.
 
+{{< youtube Q6LMEkzwmUA >}}
