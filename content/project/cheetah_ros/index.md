@@ -8,6 +8,7 @@ featured: false
 tags:
   - legged_robots
   - optimal_control
+external_link: https://github.com/qiayuanliao/cheetah_ros
 links:
   - url: https://github.com/qiayuanliao/cheetah_ros
     name: Source
