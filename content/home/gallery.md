@@ -10,10 +10,10 @@ headless: true
 weight: 50
 
 title: Robots designed by my team
-subtitle: I supervise and review all idea and drawing; In charge of some important design and calculations.
+subtitle: I supervise and review all idea and drawing. In charge of some important design and calculations.
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="rm_robots" >}}
