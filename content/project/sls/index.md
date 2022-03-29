@@ -31,20 +31,24 @@ Although the project looks pretty naive now, the desktop SLS printer with the la
 
 ## Laser Galvanometer System
 
-The Laser galvanometer works the same as the voltmeter, the volt determines the angle of mirrors that reflect the laser. We use serial to communicate with the computer and receive the GCode(GCode is the most widely used numerical control programming language), process the GCode and plan, calculate the mirrors angle for each movement, use SPI to send the volt data to the DAC module, output the volt and make galvanometer turn to the corresponding angle.
+The Laser galvanometer works the same as the voltmeter; the volt determines the angle of mirrors that reflect the laser. We use serial to communicate with the computer and receive the GCode(GCode is the most widely used numerical control programming language), process the GCode and plan, calculate the mirrors angle for each movement, use SPI to send the volt data to the DAC module, output the volt and make galvanometer turn to the corresponding angle.
 
 <center>{{< gallery album="sls/mg" >}}</center>
 
 ## 2D Sintering Testing Platform
+
 A 2d testing platform was made for single layer sintering, the platform and a nylon sintering test result are shown below.
 
 <center>{{< gallery album="sls/test2d" >}}</center>
 
 ## Powder Delivery System
-The Powder Delivery System shown below driven by three stepper motors spread the powder evenly over the previous layer, two pistons store the printed part and the powder waiting to be used respectively.
+
+The Powder Delivery System shown below, driven by three stepper motors, spreads the powder evenly over the previous layer. Two pistons store the printed part and the powder waiting to be used respectively.
 
 <center>{{< gallery album="sls/powder" >}}</center>
 
 # 3D Printer
-Combine Laser Galvanometer and Powder Delivery System together, we got an SLS 3D printer.
 
+Combining Laser Galvanometer and Powder Delivery System, we got an SLS 3D printer.
+
+![](printer.jpg)
