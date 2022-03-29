@@ -4,11 +4,12 @@ date: 2022-02-01T09:53:08.018Z
 summary: Hardware/simulation interface based on ros-controls for developing
   RoboMaster robots and high-performance robots.
 featured: true
-show_date: false
 authors:
   - 90% Commits by me
 tags:
   - robomaster
+external_link: https://rm-control-docs.netlify.app/en/overview/intro
+show_date: false
 links:
   - icon_pack: fab
     icon: github
