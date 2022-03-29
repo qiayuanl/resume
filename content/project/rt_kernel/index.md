@@ -1,7 +1,7 @@
 ---
-title: rt_kernel
+title: Real-time kernel for UP Board
 date: 2022-03-29T06:49:06.134Z
-summary: Real-time kernel
+summary: Real-time Linux kernel for UP Board, which usually used in MIT Cheetah Mini
 draft: false
 featured: false
 tags:
