@@ -58,4 +58,8 @@ A dry run test video is shown below.
 {{< youtube qisKUQljb_s >}}
 
 # Print result
-I tested 
+I added toner in nylon to improve the ability to absorb laser energy, then printed complex geometric mechanisms, 3DBenchy, small chains to test the performance of the printer.
+
+<center>{{< gallery album="sls/result" >}}</center>
+
+
