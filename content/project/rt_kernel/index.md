@@ -6,10 +6,9 @@ draft: false
 featured: false
 tags:
   - legged_robots
-  - optimal_control
 external_link: https://github.com/qiayuanliao/Ubuntu-RT-UP-Board
 links:
-  - url: https://github.com/qiayuanliao/cheetah_ros
+  - url: https://github.com/qiayuanliao/Ubuntu-RT-UP-Board
     name: Source
     icon_pack: fab
     icon: github
