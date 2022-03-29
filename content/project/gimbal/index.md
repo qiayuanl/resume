@@ -1,6 +1,6 @@
 ---
 title: Gravity compensation
-date: 2022-03-28T09:24:29.731Z
+date: 2021-09-01T09:24:29.731Z
 summary: Mechanical gravity compensation for pitch axis of gimbal
 draft: false
 featured: false
