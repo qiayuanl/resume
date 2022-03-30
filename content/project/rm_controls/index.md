@@ -15,6 +15,10 @@ links:
     icon: github
     url: https://github.com/rm-controls
     name: Source
+  - url: https://rm-control-docs.netlify.app/en/overview/intro
+    icon_pack: fab
+    icon: book
+    name: Docs
 image:
   focal_point: Center
   preview_only: true
