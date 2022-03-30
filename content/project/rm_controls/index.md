@@ -16,7 +16,7 @@ links:
     url: https://github.com/rm-controls
     name: Source
   - url: https://rm-control-docs.netlify.app/en/overview/intro
-    icon_pack: fab
+    icon_pack: fas
     icon: book
     name: Docs
 image:
