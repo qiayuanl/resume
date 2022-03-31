@@ -31,5 +31,5 @@ Videos below show a system that detects and predicts the movement of the robot's
 {{< youtube -lmzZzkQu4M >}}
 {{< youtube IM9R276mT24 >}}
 
-# Gravity Comper
+# Gravity Compensation
  
