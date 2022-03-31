@@ -33,7 +33,7 @@ publication: In *International Conference on Intelligent Robots and Systems* (Un
 featured: true
 tags: []
 projects:
-  - content/project/cheetah_ros/index.md
+  - "content/project/cheetah_ros/index.md"
 image:
   caption: ""
   focal_point: ""
