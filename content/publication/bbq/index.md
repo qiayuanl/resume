@@ -29,7 +29,7 @@ url_video: ""
 author_notes:
   - Corresponding Author
 doi: ""
-publication: In *International Conference on Intelligent Robots and Systems*
+publication: In *International Conference on Intelligent Robots and Systems* (Under Review)
 featured: true
 tags: []
 projects:
