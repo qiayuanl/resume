@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 title: Robots designed by my team
 subtitle: I supervise and review all idea and drawing. In charge of some important design and calculations. Note that these robots are for RoboMaster competition only and should not and will not be military related!
