@@ -26,6 +26,8 @@ image:
 {{< youtube 5iE0kwIj1Mk >}}
 
 # Vision Tracking
+Videos below show a system that detects and predicts the movement of the robot's armor, tracks the armor with a gimbal, and boosts the ball to hit the armor considering the flying time.
+
 {{< youtube -lmzZzkQu4M >}}
 {{< youtube IM9R276mT24 >}}
 
