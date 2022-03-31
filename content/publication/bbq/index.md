@@ -1,7 +1,7 @@
 ---
 title: Real-time Trajectory Optimization and Control for Ball Bumping with
   Quadruped Robots
-subtitle: "*under review*"
+subtitle: Under Review
 abstract: This paper presents a real-time trajectory optimization and control
   method that allows the quadruped robot to bump the ball to the desired landing
   point. We first formulate the entire process as a nonlinear programming (NLP)
@@ -16,6 +16,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "1"
+  - "3"
 authors:
   - Qiayuan Liao
   - Hua Chen
