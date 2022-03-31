@@ -1,11 +1,10 @@
 ---
-title: rm_highlight
+title: RM Robots Highlight
 date: 2022-03-31T11:07:59.810Z
-summary: Mechanical gravity compensation for pitch axis of gimbal
-draft: true
+summary: Highlight video of design, control, and performance of RoboMaster robots
+draft: false
 featured: false
-authors:
-  - Design idea and calculations
+authors: []
 show_date: false
 tags:
   - robomaster
