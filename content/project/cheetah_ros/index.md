@@ -19,6 +19,6 @@ links:
     icon: github
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: center
   preview_only: true
 ---
