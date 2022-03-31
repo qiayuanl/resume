@@ -25,7 +25,7 @@ url_dataset: ""
 url_project: ""
 publication_short: In *IROS2022* (Under Review)
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/zlsPcv5c-44"
 author_notes:
   - Corresponding Author
 doi: ""
