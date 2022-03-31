@@ -2,7 +2,7 @@
 title: RM Robots Highlight
 date: 2022-03-31T11:07:59.810Z
 summary: Highlight video of design, control, and performance of RoboMaster robots
-draft: true
+draft: false
 featured: false
 authors: []
 show_date: false
