@@ -25,7 +25,9 @@ image:
 
 {{< youtube 5iE0kwIj1Mk >}}
 
-# Vision Traking
+# Vision Tracking
 {{< youtube -lmzZzkQu4M >}}
+{{< youtube IM9R276mT24 >}}
+
 
  
