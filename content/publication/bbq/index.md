@@ -23,7 +23,7 @@ authors:
   - Wei Zhang
 url_dataset: ""
 url_project: ""
-publication_short: In *IROS2022*
+publication_short: In *IROS2022* (Under Review)
 url_source: ""
 url_video: ""
 author_notes:
