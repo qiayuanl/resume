@@ -52,4 +52,6 @@ The zero-length spring is made by compression spring and its stiffness needs to 
 The agile and accurate movement of chassis require four wheel touch the groud at the same time, we design chassis suspension mechanism using springs and links, the 
 
 ## High Speed Spinning Chassis
-To counter the adversary's visual recognition and tracking, we add conductive slip  ring between gimbal and chassis, allows chassis spinning at high speed
+To counter the adversary's visual recognition and tracking, we add conductive slip  ring between gimbal and chassis, allows chassis spinning continuly at a high speed
+
+{{< youtube Sl-buYX0Ozs >}}
