@@ -43,10 +43,10 @@ shows a gravity compensation can perfectly balance one joint in any position wit
 
 ![](gimbal.jpg "Design parameters of gimbal pitch axis")
 Test ${O(d\\_{\\max})}$
-{{< math >}}
+
 $$
 \frac{mgL}{kh_1} = h_2
 $$
-{{< /math >}}
+
 
 {{< youtube Kh_ExaJH1Uo >}}
