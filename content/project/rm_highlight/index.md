@@ -49,4 +49,7 @@ The zero-length spring is made by compression spring and its stiffness needs to 
 {{< youtube Kh_ExaJH1Uo >}}
 
 ## Adaptive Chassis
-The agile and accurate movement of chassis require four wheel touch the groud at the same time, we use spring and link 
+The agile and accurate movement of chassis require four wheel touch the groud at the same time, we design chassis suspension mechanism using springs and links, the 
+
+## High Speed Spinning Chassis
+To counter the adversary's visual recognition and tracking, we add conductive slip  ring between gimbal and chassis, allows chassis spinning at high speed
