@@ -42,11 +42,8 @@ Videos below show a system that detects and predicts the movement of the robot's
 shows a gravity compensation can perfectly balance one joint in any position with a zero-length spring, I found that this mechanism can be used on the RoboMaster gimbal, because the load of the gimbal's pitch motor is very large under the mechanical design constraints, and the chassis is generally driven on the flat ground.
 
 ![](gimbal.jpg "Design parameters of gimbal pitch axis")
-Test ${O(d\\_{\\max})}$
 
-$$
-\frac{mgL}{kh_1} = h_2
-$$
-
+The zero-length spring is made by compression spring and its stiffness needs to satisfy $$ \frac{mgL}{kh_1} = h_2 $$
+, and when $$\theta_1 = \theta_2$$, the torque cause by the spring equal the torque cause by gravity.  
 
 {{< youtube Kh_ExaJH1Uo >}}
