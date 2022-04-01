@@ -43,7 +43,10 @@ shows a gravity compensation can perfectly balance one joint in any position wit
 
 ![](gimbal.jpg "Design parameters of gimbal pitch axis")
 
-The zero-length spring is made by compression spring and its stiffness needs to satisfy $$ \frac{mgL}{kh_1} = h_2 $$
-, and when $$\theta_1 = \theta_2$$, the torque cause by the spring equal the torque cause by gravity.  
+The zero-length spring is made by compression spring and its stiffness needs to satisfy $ \frac{mgL}{kh_1} = h_2 $
+, and when $ \theta_1 = \theta_2 $, the torque cause by the spring equal the torque cause by gravity.  
 
 {{< youtube Kh_ExaJH1Uo >}}
+
+## Adaptive Chassis
+The agile and accurate movement of chassis require four wheel touch the groud at the same time, we use spring and link 
