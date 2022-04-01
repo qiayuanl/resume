@@ -34,10 +34,14 @@ Videos below show a system that detects and predicts the movement of the robot's
 {{< youtube IM9R276mT24 >}}
 
 # Mechanical Design
+
 ## Gravity Compensation
+
 When I read 
-[**3-DOF Gravity Compensation Mechanism for Robot Waists with the Variations of Center of Mass**](https://ieeexplore.ieee.org/document/8968046) and 
-[**Energy-free Systems; Theory, conception and design of statically balanced spring mechanisms**](https://www.researchgate.net/publication/280922819_Energy-free_Systems_Theory_conception_and_design_of_statically_balanced_spring_mechanisms)
+**[3-DOF Gravity Compensation Mechanism for Robot Waists with the Variations of Center of Mass](https://ieeexplore.ieee.org/document/8968046)** and 
+**[Energy-free Systems; Theory, conception and design of statically balanced spring mechanisms](https://www.researchgate.net/publication/280922819_Energy-free_Systems_Theory_conception_and_design_of_statically_balanced_spring_mechanisms)**
 , I found that these mechanisms can be used on the RoboMaster gimbal, because the load of the gimbal's pitch motor is very large under the mechanical design constraints, and the chassis is generally driven on the ground.
+
+![](gimbal.jpg)
 
 {{< youtube Kh_ExaJH1Uo >}}
