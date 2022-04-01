@@ -42,6 +42,6 @@ When I read
 **[Energy-free Systems; Theory, conception and design of statically balanced spring mechanisms](https://www.researchgate.net/publication/280922819_Energy-free_Systems_Theory_conception_and_design_of_statically_balanced_spring_mechanisms)**
 , I found that these mechanisms can be used on the RoboMaster gimbal, because the load of the gimbal's pitch motor is very large under the mechanical design constraints, and the chassis is generally driven on the ground.
 
-![Design parameters of gimbal pitch axis](gimbal.jpg)
+![](gimbal.jpg "Design parameters of gimbal pitch axis")
 
 {{< youtube Kh_ExaJH1Uo >}}
