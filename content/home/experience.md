@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher Intern
+  - title: Research Intern
     company: SUSTech CLEAR Lab (Prof. Wei Zhang)
     company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
