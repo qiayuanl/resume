@@ -8,11 +8,7 @@ authors: []
 show_date: false
 tags:
   - robomaster
-links:
-  - url: https://github.com/qiayuanliao/cheetah_ros
-    name: Source
-    icon_pack: fab
-    icon: github
+links: []
 image:
   filename: featured.png
   focal_point: CENTER
