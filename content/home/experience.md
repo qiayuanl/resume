@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
     location: Online
-    date_start: '2022-7-01'
+    date_start: '2022-07-01'
     date_end: 
     description: |2-
         Responsibilities include:
