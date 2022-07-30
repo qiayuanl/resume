@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: UC Berkeley Hybrid Robotics Group (Prof. Koushil Sreenath)
+    company_url: 'https://www.wzhanglab.site/'
+    company_logo: ''
+    location: Online
+    date_start: '2022-7-01'
+    date_end: 
+    description: |2-
+        Responsibilities include:
+
+        * Development of MPC with obstacle avoidance for the quadruped robot.
+
+  - title: Research Intern
     company: SUSTech CLEAR Lab (Prof. Wei Zhang)
     company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
