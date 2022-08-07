@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://github.com/qiayuanliao
 organizations:
-  - name: Southern University of Science and Technology
+  - name: University of California, Berkeley
     url: ""
 education:
   courses:
