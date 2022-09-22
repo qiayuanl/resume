@@ -19,11 +19,12 @@ publication_types:
   - "3"
 authors:
   - Qiayuan Liao
+  - Zhefeng Cao
   - Hua Chen
   - Wei Zhang
 url_dataset: ""
 url_project: ""
-publication_short: In *IROS2022* (Under Review)
+publication_short: In *ICRA2023* (Under Review)
 url_source: ""
 url_video: "https://youtu.be/zlsPcv5c-44"
 author_notes:

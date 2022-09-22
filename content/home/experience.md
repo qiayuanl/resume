@@ -46,7 +46,7 @@ experience:
 
         * Development of hardware and simulation interface of quadruped robot (Unitree's Aliengo) based on ros-control, and Cheetah-Software.
         * Working on control the quadruped robot bumps the ball in the air to the desired position using trajectory optimization and MPC.
-        * Research results submitted to IROS2022 (under review).
+        * Research results submitted to ICRA2023 (under review).
 
   - title: Captain & Founder
     company: GDUT DynamicX Robotic Team
