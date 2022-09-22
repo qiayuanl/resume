@@ -2,16 +2,7 @@
 title: Real-time Trajectory Optimization and Control for Ball Bumping with
   Quadruped Robots
 subtitle: Under Review
-abstract: This paper presents a real-time trajectory optimization and control
-  method that allows the quadruped robot to bump the ball to the desired landing
-  point. We first formulate the entire process as a nonlinear programming (NLP)
-  problem to obtain the optimal trajectory, takeoff state, and takeoff time.
-  Then, an model predictive control (MPC) based jumping controller is developed
-  with terminal cost, horizon cutting, and dynamic discretization time interval.
-  Experimental results demonstrate Aliengo bumped a tennis ball released in 1.56
-  m. Our approach is fast enough to compute after the ball is released, general
-  enough to perform accurate ball landing points in 7 different initial ball
-  states and desired ball landing points with the same parameters.
+abstract: This paper studies real-time motion planning and control for ball bumping motion with quadruped robots. To enable the quadruped to bump the flying ball with different initializations, we develop a nonlinear trajectory optimization based planning scheme that jointly identifies the take-off time and state to achieve accurate ball hitting during flight phase. Such a planning scheme employs a two-dimensional single rigid body model that achieves a satisfactory balance between accuracy and efficiency for the highly time-sensitive task. To precisely execute the planned motion, tracking controller needs to incorporate the strict time-state constraint imposed on the take-off and ball hitting events. To this end, we develop an improved model predictive controller that respects the critical time-state constraints. The proposed planning and control framework is validated with a real Aliengo robot. Experiments show that the problem planning approach can be computed in approximately $60$ ms on average, enabling successful accomplishment of the ball bumping motion with various initializations in real time.
 slides: ""
 url_pdf: ""
 publication_types:
