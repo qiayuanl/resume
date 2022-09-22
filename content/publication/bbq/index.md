@@ -21,7 +21,7 @@ url_video: "https://youtu.be/zlsPcv5c-44"
 author_notes:
   - Corresponding Author
 doi: ""
-publication: In *International Conference on Intelligent Robots and Systems* (Under Review)
+publication: In *International Conference on Robotics and Automation* (Under Review)
 featured: true
 tags: []
 projects:
