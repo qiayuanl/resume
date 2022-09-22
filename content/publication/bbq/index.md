@@ -18,8 +18,7 @@ url_project: ""
 publication_short: In *ICRA2023* (Under Review)
 url_source: ""
 url_video: "https://youtu.be/zlsPcv5c-44"
-author_notes:
-  - Corresponding Author
+author_notes: []
 doi: ""
 publication: In *International Conference on Robotics and Automation* (Under Review)
 featured: true
