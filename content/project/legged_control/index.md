@@ -1,6 +1,6 @@
 ---
 title: legged_control
-date: 2022-09-028T09:19:51.276Z
+date: 2022-09-28T09:19:51.276Z
 summary: Nonlinear MPC and WBC for legged robot based on OCS2 and ros-controls.
 draft: false
 featured: false
