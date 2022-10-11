@@ -23,11 +23,11 @@ feature:
   - name: Control
     icon_pack: fas
     icon: microchip
-    description: TO, MPC, TVLQR, PID, ROS, Gazebo
+    description: TO, NMPC, MPC, TVLQR, PID, Kalman Filter, ROS, Gazebo
   - name: Tools
     icon_pack: fas
     icon: toolbox
-    description: C++, Python, Git, LaTeX, OpenCV, Github Action
+    description: C++, Python, Git, LaTeX, OpenCV
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
