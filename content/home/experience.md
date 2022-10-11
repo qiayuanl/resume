@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Undergraduate Researcher
     company: UC Berkeley Hybrid Robotics Group (Prof. Koushil Sreenath)
     company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
@@ -34,7 +34,7 @@ experience:
 
         * Development of MPC with obstacle avoidance for the quadruped robot.
 
-  - title: Research Intern
+  - title: Undergraduate Researcher
     company: SUSTech CLEAR Lab (Prof. Wei Zhang)
     company_url: 'https://www.wzhanglab.site/'
     company_logo: ''
