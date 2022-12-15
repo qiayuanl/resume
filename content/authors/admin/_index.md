@@ -18,7 +18,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSc in Electromechanical Engineering
+    - course: B.E. in Mechatronics Engineering
       institution: Guangdong University of Technology
       year: 2023
 email: liaoqiayuan@gmail.com
