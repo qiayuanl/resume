@@ -1,6 +1,6 @@
 ---
 title: Qiayuan Liao
-role: Undergraduate Researcher
+role: Incoming Ph.D. student
 bio: My research interests include Legged Robots, Optimal Control, and Mechanical Design.
 interests:
   - Legged Robots
@@ -25,6 +25,6 @@ email: liaoqiayuan@gmail.com
 superuser: true
 highlight_name: true
 ---
-Qiayuan Liao is an undergraduate researcher in UC Berkeley Hybrid Robotics and SUSTech CLEAR-LAB, and he is aloso an undergraduate student at GDUT. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
+Qiayuan Liao is m an incoming Ph.D. student at UC Berkeley, and alos is an undergraduate researcher in SUSTech. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_qiayuan.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
