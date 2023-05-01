@@ -25,6 +25,6 @@ email: liaoqiayuan@gmail.com
 superuser: true
 highlight_name: true
 ---
-Qiayuan Liao is an incoming Ph.D. student at UC Berkeley, and alos is an undergraduate researcher in SUSTech. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
+Qiayuan Liao is an incoming Ph.D. student at UC Berkeley and also is an undergraduate researcher in SUSTech. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/qiayuan_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
