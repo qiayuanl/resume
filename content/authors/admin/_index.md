@@ -18,13 +18,16 @@ organizations:
     url: ""
 education:
   courses:
+    - course: Ph.D. Student Mechanical Engineering
+      institution: University of California, Berkeley
+      year: 2023--Present
     - course: B.E. in Mechatronics Engineering
       institution: Guangdong University of Technology
       year: 2023
-email: liaoqiayuan@gmail.com
+email: qiayuanl@berkeley.edu
 superuser: true
 highlight_name: true
 ---
-Qiayuan Liao is an incoming Ph.D. student at UC Berkeley and also is an undergraduate researcher in SUSTech. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
+Qiayuan Liao is a Ph.D. student at UC Berkeley. He is a full-stack roboticist with a great passion for robots and can independently design, build and control a complex robot system. His research interests include legged robots, optimal control, and mechanical design.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/qiayuan_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
